@@ -19,4 +19,4 @@
 
 ## Ссылка на GitHub Pages
 
-[Открыть приложение](https://ваш-username.github.io/ваш-репозиторий/)
+[Открыть приложение](https://unki-web.github.io/ktjava3/)
